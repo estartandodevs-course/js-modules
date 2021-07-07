@@ -18,7 +18,7 @@
 ```
 
 - [x] babel-loader
-- [] css-loader + style-loader@2.0.0.
-- [] url-loader.
-- [] html-webpack-plugin
-- [] webpack-dev-server@3.10.3
+- [x] css-loader + style-loader@2.0.0.
+- [x] html-webpack-plugin
+- [x] webpack-dev-server@3.10.3
+- [x] url-loader.
