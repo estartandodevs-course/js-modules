@@ -1,0 +1,19 @@
+.profile-container {
+  background-color: #d5d5d6;
+  max-width: 500px;
+  padding: 8px 16px;
+}
+
+.profile-container_avatar {
+  border-radius: 50%;
+}
+
+.profile-container_name {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.profile-container_email {
+  font-size: 16px;
+  line-height: 18px;
+}
