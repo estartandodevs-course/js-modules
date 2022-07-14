@@ -2,9 +2,10 @@
 
 - [] @babel/cli
 - [] @babel/core
+- [] @babel/preset-env.
 
 ```
-  yarn add @babel/cli @babel/core -D
+  yarn add @babel/cli @babel/core @babel/preset-env -D
 ```
 
 ### Webpack
@@ -27,12 +28,11 @@
 ### Webpack + Babel
 
 - [] babel-loader.
-- [] @babel/preset-env.
 - [] @babel/runtime
 - [] @babel/plugin-transform-runtime
 
 ```
-  yarn add babel-loader @babel/preset-env @babel/runtime @babel/plugin-transform-runtime -D
+  yarn add babel-loader @babel/runtime @babel/plugin-transform-runtime -D
 ```
 
 - [] @babel/polyfill
